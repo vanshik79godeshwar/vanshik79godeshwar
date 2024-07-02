@@ -2,4 +2,5 @@
 - 👀 I’m interested in making things that make difference
 - 🌱 I’m currently learning data science and analysis
 - 📫 How to reach me : dm vanshikgodeshwar@gmail.com
+- Tech stack: HTML CSS JavaScript Git&Github React C++ Python3 Numpy Pandas
 - I'm a passionate software developer with a knack for creating innovative solutions. I love coding, problem-solving, and building things that make a difference. Currently, I'm diving deep into development and data analysis
